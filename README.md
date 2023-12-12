@@ -26,7 +26,7 @@ About Us
 
 This policy sets out the basis for our handling of any personal data collected from you or provided to us by you. If you have any other questions about how we use your personal data.
 
-Please contact us at qq1748005076@gmail.com
+Please contact us at 1740747328qq@gmail.com
 
 Our mailing address: 60 PAYA LEBAR ROAD #11-53 PAYA LEBAR SQUARE SINGAPORE
 
@@ -348,7 +348,7 @@ In case of any update of this policy, we will notify you through APP client push
 
 11. How to contact us
 
-If you wish to make a complaint about how we handle your personal information, please contact us at qq1748005076@gmail.com and we will endeavour to process your request as soon as possible. This does not affect your right to file a claim against a data protection authority
+If you wish to make a complaint about how we handle your personal information, please contact us at 1740747328qq@gmail.com and we will endeavour to process your request as soon as possible. This does not affect your right to file a claim against a data protection authority
 
 If you have any suggestions or questions about the protection of personal information, or you have any questions about this policy, you can contact us through the following ways. We will review the problems as soon as possible, and give a reply within 15 working days after verifying your user ID. For questions about this policy, please send your comments and requests to us
 
@@ -356,7 +356,7 @@ Address: 60 PAYA LEBAR ROAD #11-53 PAYA LEBAR SQUARE SINGAPORE
 
  
 
-E-mali:qq1748005076@gmail.com
+E-mali:1740747328qq@gmail.com
 
  
 
