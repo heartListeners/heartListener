@@ -6,7 +6,7 @@ Last updated: June 1, 2023
 
 Introduction
 
-Welcome to HeartListener Platform (hereinafter referred to as "HeartListener"). HeartListener is provided and controlled by DREAMCRAFTER STUDIOS PTE. LTD. We respect and protect the personal information and privacy of all HeartListener users in accordance with the applicable privacy laws worldwide.
+Welcome to HeartListener Platform (hereinafter referred to as "HeartListener"). HeartListener is provided and controlled by a developer(Valy). We respect and protect the personal information and privacy of all HeartListener users in accordance with the applicable privacy laws worldwide.
 
 To provide you with more accurate and personalized services as well as a more secure Internet environment, we have defined our principles for the collection/use/provision of your personal
 
@@ -28,7 +28,7 @@ This policy sets out the basis for our handling of any personal data collected f
 
 Please contact us at 1740747328qq@gmail.com
 
-Our mailing address: 60 PAYA LEBAR ROAD #11-53 PAYA LEBAR SQUARE SINGAPORE
+Our mailing address: huaxintiandi #a8-801 xujiahui ShangHai of China
 
  
 
@@ -352,7 +352,7 @@ If you wish to make a complaint about how we handle your personal information, p
 
 If you have any suggestions or questions about the protection of personal information, or you have any questions about this policy, you can contact us through the following ways. We will review the problems as soon as possible, and give a reply within 15 working days after verifying your user ID. For questions about this policy, please send your comments and requests to us
 
-Address: 60 PAYA LEBAR ROAD #11-53 PAYA LEBAR SQUARE SINGAPORE
+Address: huaxintiandi #a8-801 xujiahui ShangHai of China
 
  
 
