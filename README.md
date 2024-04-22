@@ -2,11 +2,11 @@ Privacy Policy
 
  
 
-Last updated: June 1, 2023
+Last updated: April 22, 2024
 
 Introduction
 
-Welcome to HeartListener Platform (hereinafter referred to as "HeartListener"). HeartListener is provided and controlled by a developer(Valy). We respect and protect the personal information and privacy of all HeartListener users in accordance with the applicable privacy laws worldwide.
+Welcome to SleepZ Platform (hereinafter referred to as "SleepZ"). SleepZ is provided and controlled by a developer(Valy). We respect and protect the personal information and privacy of all SleepZ users in accordance with the applicable privacy laws worldwide.
 
 To provide you with more accurate and personalized services as well as a more secure Internet environment, we have defined our principles for the collection/use/provision of your personal
 
@@ -18,7 +18,7 @@ In particular, we would like to draw the attention of underage users (especially
 
 Please carefully read and fully understand this policy before using/continuing to use our products and services, and make appropriate choices in accordance with the guidelines set out in
 
-this policy when necessary. If you do not agree with the content of this policy, it may cause our products or services to fail to function properly or fail to achieve the intended effect of our services. You should immediately stop accessing/using our products and services. By using or continuing to use the products and services provided by us, you fully understand and agree to the entire content of HeartListener User Privacy Policy (including the updated version).
+this policy when necessary. If you do not agree with the content of this policy, it may cause our products or services to fail to function properly or fail to achieve the intended effect of our services. You should immediately stop accessing/using our products and services. By using or continuing to use the products and services provided by us, you fully understand and agree to the entire content of SleepZ User Privacy Policy (including the updated version).
 
  
 
@@ -62,11 +62,11 @@ Registration and login
 
 1.1 When you use your mobile phone number to register and log in, we will collect your [mobile phone number and mobile phone operator inforrmation] so as to provide you with quicklogin service.
 
-1.2 When you register HeartListener with a third-party account (such as Facebook, Apple ID), you need to authorize us to read the public information (nickname, avatar) you registered with the third party account. The third-party platform's handling of your personal information will be governed by the third-party's privacy policy.
+1.2 When you register SleepZ with a third-party account (such as Facebook, Apple ID), you need to authorize us to read the public information (nickname, avatar) you registered with the third party account. The third-party platform's handling of your personal information will be governed by the third-party's privacy policy.
 
 1.3 You can also choose to fill in or change your information according to your own needs, but if you do not provide such information, it will not affect your use of the product and related services (except for the user name, which is required for registration).
 
-1.4 If you have successfully registered your HeartListener account, we will display your personal information in the app.
+1.4 If you have successfully registered your SleepZ account, we will display your personal information in the app.
 
  
 
@@ -98,19 +98,19 @@ a reasonable range.
 
  (ii) detect whether your username, bio, profile photo, or chat messages contains malicious information
 
-2.4 Positioning function. In some areas under administration, we may collect your Global Positioning System (GPS) data and mobile device location information with your permission. If you don't want to share your exact location with us, you can turn off Ilocation-based services via settings on your mobile device. GPS location information is personal sensitive information.If you refuse to provide such information, you will not be able to use the above location-based services, but it will not affect your use of other functions of HeartListener.
+2.4 Positioning function. In some areas under administration, we may collect your Global Positioning System (GPS) data and mobile device location information with your permission. If you don't want to share your exact location with us, you can turn off Ilocation-based services via settings on your mobile device. GPS location information is personal sensitive information.If you refuse to provide such information, you will not be able to use the above location-based services, but it will not affect your use of other functions of SleepZ.
 
 2.5 Customer service and after-sales service functions. When you contact our customer service staff or apply for after-sales service of our products and/or services, for the security of your account and system, we may require you to provide relevant personal information to match the personal information you previously provided, so as to verify your user identity. After successful verification, we may collect the information when you chat with us (account information, order information, and picture/video/text information and relevant information provided by you to prove relevant facts), your contact information, and records when you chat with us, including the online chat records and mobile phone recording, so as to solve the problem for you
 
 as soon as possible and improve our products and/or services. At the same time, we may contact you by phone,text message,ystem message and other relevant means to solve yourp problems arising in the process of using our products and services.
 
-2.6 To ensure that you can maintain instant messaging with the background server when using the services of HeartListener and that you can receive personalized content push in a timely manner, we will
+2.6 To ensure that you can maintain instant messaging with the background server when using the services of SleepZ and that you can receive personalized content push in a timely manner, we will
 
-i) obtain and invoke your boot broadcast permission to start thie mobile client software of HeartListener or its affiliates; ii) use a third-party messaging service to generate an ID for you to identify the uniqueness of your device
+i) obtain and invoke your boot broadcast permission to start thie mobile client software of SleepZ or its affiliates; ii) use a third-party messaging service to generate an ID for you to identify the uniqueness of your device
 
 2.7 Summary of device permission invocation
 
-During the process of providing services to you at HeartListener, we may invoke some of your device permissions. You can choose to close some or all permissions in the device's settings. The display mode and closing mode of permissions may be different on different devices. For details about how to invoke device permissions, please refer to the Device Permission Invocation List.
+During the process of providing services to you at SleepZ, we may invoke some of your device permissions. You can choose to close some or all permissions in the device's settings. The display mode and closing mode of permissions may be different on different devices. For details about how to invoke device permissions, please refer to the Device Permission Invocation List.
 
 2.8 To fulfill our legal obligations and, where necessary, to protect the public interest or protect the vital interests of users and others, we may use your data to help us prevent and respond to abuse, fraud, illegal activities and other potentially harmful content.
 
@@ -160,7 +160,7 @@ Content audit service provider: To ensure that the content posted by usersaterne
 
 Other business partners: Those who entrust us with promotion and advertising. You grant us the right to share the indirect user profiles formed by using your relevant information collection with partners who entrust us to carry out promotion and adverting so as to help them make advertising or decision-making suggestions, improve the effective touch  rate of advertising, and further understand user needs. We promise that we will not share any personal information that can identify you without your consent.
 
-Cooperative third-party SDK providers: When you use the functions provided by a third party in HeartListener, we may access the Software Development Kit (SDK) provided by a third party to realize the relevant functions. We will restrict the SDK service providers through cooperation agreement. However, third-party SDK providers may collect your personal information. The aforementioned service providers' collection and processing of information and other activities are subject to their own privacy terms, and do not apply to this policy. To ensure the maximum security of your information, we recommend you review the privacy policy of any third-party SDK service before using our legitimate rights and interests, if you find that there is a risk in this SDK or other similar apps, we suggest that you immediately stop the relevant operations and contact us in time.
+Cooperative third-party SDK providers: When you use the functions provided by a third party in SleepZ, we may access the Software Development Kit (SDK) provided by a third party to realize the relevant functions. We will restrict the SDK service providers through cooperation agreement. However, third-party SDK providers may collect your personal information. The aforementioned service providers' collection and processing of information and other activities are subject to their own privacy terms, and do not apply to this policy. To ensure the maximum security of your information, we recommend you review the privacy policy of any third-party SDK service before using our legitimate rights and interests, if you find that there is a risk in this SDK or other similar apps, we suggest that you immediately stop the relevant operations and contact us in time.
 
 Message push service: To provide you with message push, third-party push service providers may obtain your push SDK version number, necessary device information, mobile phone status information, geographic location information and network related information so as to push information you may be more interested in. Please refer to Information Collection and Use of Third-Party SDKs for details.
 
@@ -168,7 +168,7 @@ Message push service: To provide you with message push, third-party push service
 
 (5) Necessary sharing with our affiliates: We may share your personal information with our affiliates. We will only share your necessary personal information, and such sharing is subject to the purposes stated in this policy. If our affiliates want to change the purpose of processing your personal information, we will seek your authorization and consent again.
 
-(6) You may share your personal information or other information with third parties (including non-specific objects) based on the HeartListener Platform. However, HeartListener shall not be liable for the disclosure, use and other related situations of information caused by your sharing behavior.
+(6) You may share your personal information or other information with third parties (including non-specific objects) based on the SleepZ Platform. However, SleepZ shall not be liable for the disclosure, use and other related situations of information caused by your sharing behavior.
 
 Transfer:
 
@@ -236,7 +236,7 @@ Protection:
 
 To ensure the security of your personal information, we will endeavor to take various security measures in accordance with industry standards to protect your personal information, so as to minimize the risk of your personal information being damaged, embezzled, revealed, accessed without authorization, disclosed and changed.We will actively establish data classification and grading systems, data security management standards and data security development standards to manage and regulate the storage and use of your personal information and ensure that no personal information unrelated to our services are collected.
 
-Your account has security protection function. Please keep your account and password information properly. HeartListener will ensure that your information is not lost, abused or altered by backing up to other servers, encrypting user passwords and other security measures. Despite the aforementioned security measures, please note that there is no "100% security measure" on the information network. In order to prevent security incidents, we have formulated a proper early warning mechanism and emergency response plan in accordance with laws and regulations.If a security incident does occur, we will inform you of the relevant situation by email, letter, call, push notification and other relevant methods.  When it is difficult to inform the subject of personal information one by one, we will take a reasonable and effective way to release an announcement. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of regulatory authorities, and closely cooperate with the government and regulatory authorities.
+Your account has security protection function. Please keep your account and password information properly. SleepZ will ensure that your information is not lost, abused or altered by backing up to other servers, encrypting user passwords and other security measures. Despite the aforementioned security measures, please note that there is no "100% security measure" on the information network. In order to prevent security incidents, we have formulated a proper early warning mechanism and emergency response plan in accordance with laws and regulations.If a security incident does occur, we will inform you of the relevant situation by email, letter, call, push notification and other relevant methods.  When it is difficult to inform the subject of personal information one by one, we will take a reasonable and effective way to release an announcement. At the same time, we will also take the initiative to report the handling of personal information security incidents in accordance with the requirements of regulatory authorities, and closely cooperate with the government and regulatory authorities.
 
  
 
@@ -254,7 +254,7 @@ Automatic decision-making of information system
 
 In some service functions, we may make decisions based solely on non-manual automatic decision-making mechanisms such as information system and algorithm. If these decisions significantly affect your legitimate rights and interests, you have the right to ask us for an explanation, and we will also provide appropriate remedies to contact us for management.
 
-For security and identification reasons, you may not be able to directly get some information through the interactive interface of HeartListener. If it is necessary for you to access, modify or request to delete such information according to laws, please send your questions to our designated email according to the contact information provided in Article 11 of this policy. We will review the problems involved as soon as possible and reply to you in time after verifying your user ID.
+For security and identification reasons, you may not be able to directly get some information through the interactive interface of SleepZ. If it is necessary for you to access, modify or request to delete such information according to laws, please send your questions to our designated email according to the contact information provided in Article 11 of this policy. We will review the problems involved as soon as possible and reply to you in time after verifying your user ID.
 
 Obtaining  copy of information
 
@@ -264,7 +264,7 @@ If you need to obtain a copy of your personal information on the platform, you m
 
 5. How do you delete your account
 
-You can delete your account within the app by tapping Settings - Account -Accounts - Delete Account, After the deletion of your account, your personal information  will be removed from HeartListener, except the personal information that must be retained by us as stipulated by laws (such as the information related to your transactions ind the data that should be retained as clearly stipulated by the government or laws)
+You can delete your account within the app by tapping Settings - Account -Accounts - Delete Account, After the deletion of your account, your personal information  will be removed from SleepZ, except the personal information that must be retained by us as stipulated by laws (such as the information related to your transactions ind the data that should be retained as clearly stipulated by the government or laws)
 
 Please refer to the Account Deletion Policy for details.
 
@@ -272,7 +272,7 @@ Please refer to the Account Deletion Policy for details.
 
 6. Special instructions for the use of third-party products and/or service
 
-HeartListener may include third-party products and/or services or informationand/or services linked to third parties. Before using the third-party products and/or services, you need to jump to the corresponding applet or third-party page. Your use of such third-party services,(including any personal information provided by you to such third party) is subject to the third party's terms of service and privacy policy (but not this policy), and you need to read the terms carefully and decide whether to accept them at your sole discretion. Please protect your personal information properly and provide them to others only when necessary. This policy only applies to the information collected, stored, used, shared and disclosed by us, but does not apply to the services provided by any third party or the rules governing the use of information third party. The third party shall be solely responsible for the behavior of using your information.
+SleepZ may include third-party products and/or services or informationand/or services linked to third parties. Before using the third-party products and/or services, you need to jump to the corresponding applet or third-party page. Your use of such third-party services,(including any personal information provided by you to such third party) is subject to the third party's terms of service and privacy policy (but not this policy), and you need to read the terms carefully and decide whether to accept them at your sole discretion. Please protect your personal information properly and provide them to others only when necessary. This policy only applies to the information collected, stored, used, shared and disclosed by us, but does not apply to the services provided by any third party or the rules governing the use of information third party. The third party shall be solely responsible for the behavior of using your information.
 
  
 
@@ -280,11 +280,11 @@ HeartListener may include third-party products and/or services or informationand
 
 Use of cookies
 
-(1) If you do not refuse to accept cookies, HeartListener will set or access cookie relevant mobile device so that you can log in or use the services or function of HeartListener that rely on cookies. HeartListener uses cookies to provide you with more thoughtful personalized services, including promotion services.
+(1) If you do not refuse to accept cookies, SleepZ will set or access cookie relevant mobile device so that you can log in or use the services or function of SleepZ that rely on cookies. SleepZ uses cookies to provide you with more thoughtful personalized services, including promotion services.
 
-(2) You have the right to choose to accept or refuse to accept cookies. You can refuse to accept cookies by changing your browser settings or by setting it on your mobile device. However, if you choose to refuse to accept cookies, you may not be able to use the services or functions of HeartListener that rely on cookies.
+(2) You have the right to choose to accept or refuse to accept cookies. You can refuse to accept cookies by changing your browser settings or by setting it on your mobile device. However, if you choose to refuse to accept cookies, you may not be able to use the services or functions of SleepZ that rely on cookies.
 
-(3) This policy applies to the information obtained through cookies set in HeartListener.
+(3) This policy applies to the information obtained through cookies set in SleepZ.
 
  
 
@@ -292,7 +292,7 @@ Use of cookies
 
 (1) Special information for California residents
 
-These additional disclosures are the categories of personal information that are collected and disclosed for commercial purposes. as required by the California Consumer Privacy Act. Depending on how you interact with HeartListener's products, personal information we may have collected or disclosed for commercial purposes during the twelve months falls into the following categories as defined by the California Consumer Privacy Act:
+These additional disclosures are the categories of personal information that are collected and disclosed for commercial purposes. as required by the California Consumer Privacy Act. Depending on how you interact with SleepZ's products, personal information we may have collected or disclosed for commercial purposes during the twelve months falls into the following categories as defined by the California Consumer Privacy Act:
 
 Identifiers, such as your name, alias, address, mobile phone number, or IP address;
 
@@ -332,7 +332,7 @@ In accordance with Article 39 of Part 6: Rights of Data Subjects of DIFC DP Law,
 
 Underage users (especially children under the age of 13 (Please refer to the relevant part of the Terms of Service for the specific definition of underage users)) shall read the following terms carefully in the company of their guardians, and the guardians shall make a decision on whether to accept this policy after full understanding:
 
-(1) Users who are minors under the age of 16 (especially children under the age of 13) shall read this Agreement and use the relevant services of HeartListener under the supervision,guidance and consent of their guardians.
+(1) Users who are minors under the age of 16 (especially children under the age of 13) shall read this Agreement and use the relevant services of SleepZ under the supervision,guidance and consent of their guardians.
 
 (2) We attach importance to the protection of personal information of underage users. When filling in personal information, underage users shall strengthen their awareness of personal protection and treat it with caution. Please use relevant services correctly under the guidance of their guardians.
 
